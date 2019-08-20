@@ -1,0 +1,63 @@
+body{
+	background-image: url(coffee.jpg);
+	background-size: 100%;
+	background-position: cover;
+	position: relative;
+	background-repeat: no-repeat;
+	font-family: arial;
+	color: white;
+}
+ul{
+	margin: px;
+	padding: px;
+	list-style: none;
+}
+ul li{
+
+    float: left;
+    width: 200px;
+    height: 40px;
+    background-color: black; 
+    opacity: .4;
+    line-height:40px;
+    text-align: center;
+    font-size: 20px; 
+    margin-right: 50px;
+}
+ul li a{
+	text-decoration: none;
+	color: white;
+	display: block;
+	
+}
+ul li a:hover{
+	background-color: green;
+}
+ul li ul li {
+	display: none;
+}
+ul li:hover ul li{
+	display: block;
+}
+h1{
+	margin-top: 10%;
+    font-family: cursive;
+    text-align:  center;
+    color: black;
+    
+}
+.a2{
+	text-align: center;
+	color: white;
+	font-family: comic sans ms;
+	}
+.a3{
+	display: inline-block;
+	padding: 8px 16px;
+	margin-bottom:5%;
+	
+}
+.a3:hover{
+	background-color: white;
+	
+}

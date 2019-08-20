@@ -1,0 +1,21 @@
+
+img{
+	float: right;
+	width: 450px;
+	height: 450px;
+	margin-right: 7%;
+}
+body{
+	background-image: url(white.jpg);
+	color: green;
+	margin-left: 10%;
+}
+h1{
+	font-family: cursive;
+	color: black;
+	margin-left: -5%; 
+
+}
+h3{
+	font-family: comic sans ms;
+}

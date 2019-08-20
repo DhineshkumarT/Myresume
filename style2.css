@@ -1,0 +1,28 @@
+body{
+	font-family: fantasy;
+	margin-left:60%;
+	background-image: url(white.jpg);
+	
+}
+
+h1{
+	margin-left: -50%;
+}
+h2{
+	font-family: decorative;
+}
+h3{
+	font-family: courier;
+}
+form{
+	margin-left: -110%;
+	margin-top: -55%;
+}
+.c1{
+	width: 10px;
+	height: 10px;
+}
+.a3{
+	text-align: center;
+	margin-left: -50%;
+}
